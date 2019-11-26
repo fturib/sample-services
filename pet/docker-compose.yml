@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  go-server-server-generated:
+    image: go-pet
+    build: .
+    ports:
+      - 8080:8080
