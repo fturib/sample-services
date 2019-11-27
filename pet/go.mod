@@ -1,4 +1,4 @@
-module server-mdgl
+module github.com/fturib/sample-services/pet
 
 go 1.12
 
